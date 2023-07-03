@@ -13,7 +13,7 @@ It brings together developers, creators, and enthusiasts to explore innovative s
 
 ## First Steps
 
-- [ ] Fork the repository
+- [x] Fork the repository
 - [ ] Create a new branch `username_idThon`, e.g., `JohnDoe_IDThon`
 - [ ] Create `solution-1.md`, `solution-2.md`, and `solution-3.md` in the root directory for your respective solutions.
 - [ ] Let's get started! Begin solving the challenges.
